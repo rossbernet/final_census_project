@@ -1,0 +1,15 @@
+end goal: 
+
+MVP
+1. user can draw an arbitrary shape on a map of census tracts polygons. 
+2. The selected polygons will highlight.
+3. average statistics will appear.
+
+
+More advanced
+1. two areas can be selected at once.
+2. ... and compared somehow...
+3. user will be able to select the factors that will show up...
+4. works for the entire country. using some kind of census tract API
+5. search locations...
+6. somehow has boundaries? type in san diego...or a zip code...and it grabs boundaries. 
