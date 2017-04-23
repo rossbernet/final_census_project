@@ -1,4 +1,5 @@
-end goal: 
+
+feature list: 
 
 MVP
 1. user can draw an arbitrary shape on a map of census tracts polygons. 
@@ -13,3 +14,11 @@ More advanced
 4. works for the entire country. using some kind of census tract API
 5. search locations...
 6. somehow has boundaries? type in san diego...or a zip code...and it grabs boundaries. 
+
+
+strategy for MVP
+
+1. copy method that has worked in class to SQL query a layer in carto.
+2. bring in method of drawing on a map.
+3. Review what other people have done. 
+
